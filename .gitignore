@@ -1,0 +1,13 @@
+# SSH private keys
+*.pem
+*.key
+
+# Secrets
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
